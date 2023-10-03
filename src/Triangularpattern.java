@@ -8,6 +8,8 @@ public class Triangularpattern {
         /*create object*/
         Scanner scanner = new Scanner(System.in);
 
+
+
         /*print message*/
         System.out.println("Please enter a number : ");
         int number = scanner.nextInt();
